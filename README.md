@@ -1,2 +1,3 @@
 # cs50p
-For the purpose of self-taught cs50p course and homework repo
+For the self-taught purpose of cs50p course and homework
+keep updating...
